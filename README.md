@@ -1,16 +1,22 @@
-### Hi there 👋
+## Olá, me chamo Michele Caroline Teixeira de Oliveira ! 
+### Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**eu-MicheleOliveira/eu-MicheleOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho com Automação de Testes
+- 💬 Formada em Análise e Desenvolvimento de Sistemas
+- 🌱 Estudo Acessibilidade WEB.
+- 👯 Contate-me no email: michele564000@gmail.com
+- 💬 Meu LinkedIn: https://www.linkedin.com/in/michelecarolineoliveira/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Ferramentas e Tecnologias
+
+- 💎  Ruby | JavaScript | Cypress | Capybara | Cucumber | 
+          
+
+<div>
+<a href="https://github.com/eu-MicheleOliveira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-micheleoliveira&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eu-micheleoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
