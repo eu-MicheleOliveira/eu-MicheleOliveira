@@ -11,7 +11,7 @@
 
 
 
-### Ferramentas e Tecnologias
+### :bulb: Tools and Technologies :bulb:
 
 - 💎  Ruby | JavaScript | Cypress | Capybara | Cucumber | 
           
