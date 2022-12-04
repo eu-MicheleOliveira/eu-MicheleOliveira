@@ -1,12 +1,13 @@
-## Olá, me chamo Michele Caroline Teixeira de Oliveira ! 
-### Bem vindo ao meu perfil GitHub 👋
+## Hey, guys!
+ I'm Michele Caroline Teixeira de Oliveira ! 
+### Welcome to my GitHub profile 👋
 
 
-- 🔭 Hoje trabalho com Automação de Testes
-- 💬 Formada em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudo Acessibilidade WEB.
-- 👯 Contate-me no email: michele564000@gmail.com
-- 💬 Meu LinkedIn: https://www.linkedin.com/in/michelecarolineoliveira/
+- 🔭 Today I work with Test Automation
+- :computer: Graduated in Systems Analysis and Development
+- :books: Study WEB Accessibility.
+- :mailbox: Contact me at email: michele564000@gmail.com
+- :email: My LinkedIn: https://www.linkedin.com/in/michelecarolineoliveira/
 
 
 
