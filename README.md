@@ -5,7 +5,7 @@
 
 - 🔭 Today I work with Test Automation
 - :computer: Graduated in Systems Analysis and Development
-- :books: Study WEB Accessibility | Performance Test | Stress test |
+- :books: I am studying WEB Accessibility | Performance Test | Stress test |
 - :mailbox: Contact me at email: michele564000@gmail.com
 - :email: My LinkedIn: https://www.linkedin.com/in/michelecarolineoliveira/
 
