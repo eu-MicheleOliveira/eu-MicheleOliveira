@@ -1,20 +1,31 @@
 ## Hey, guys!
  I'm Michele Caroline Teixeira de Oliveira ! 
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelecarolineoliveira/)](https://www.linkedin.com/in/michelecarolineoliveira/)
+ 
+ 
 ### Welcome to my GitHub profile 👋
 
 
 - 🔭 Today I work with Test Automation
 - :computer: Graduated in Systems Analysis and Development
 - :books: I am studying WEB Accessibility | Performance Test | Stress test |
+ - [Blog](https://medium.com/@micheledeoliveira) ✍🏼 - I'm write about many things.
 - :mailbox: Contact me at email: michele564000@gmail.com
-- :email: My LinkedIn: https://www.linkedin.com/in/michelecarolineoliveira/
+
 
 
 
 ### :bulb: Tools and Technologies :bulb:
 
 -  Ruby | JavaScript | Cypress | Capybara | Cucumber | Selenium
-          
+     
+     
+
+### :bulb: My projects :bulb:
+<a href="https://github.com/eu-MicheleOliveira/cypress-avancado" target="_blank"> - Advanced Cypress Testing</a>
+
+
 
 <div>
 <a href="https://github.com/eu-MicheleOliveira">
