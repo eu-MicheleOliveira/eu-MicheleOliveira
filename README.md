@@ -10,7 +10,7 @@
 - 🔭 Today I work with Test Automation
 - :computer: Graduated in Systems Analysis and Development
 - :books: I am studying WEB Accessibility | Performance Test | Stress test |
- - [Blog](https://medium.com/@micheledeoliveira) ✍🏼 - I'm write about many things.
+ -  I'm write about many things [Blog](https://medium.com/@micheledeoliveira) ✍🏼 
 - :mailbox: Contact me at email: michele564000@gmail.com
 
 
