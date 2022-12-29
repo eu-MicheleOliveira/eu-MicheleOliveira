@@ -8,7 +8,8 @@
 
 - 🔭 Today I work with Test Automation
 - :books: I am studying WEB Accessibility | Performance Test | Stress test |
- -  I'm write about many things [Blog](https://medium.com/@micheledeoliveira) ✍🏼 
+- ✍🏼  I'm write about many things [Blog](https://medium.com/@micheledeoliveira) 
+- My contact <a href="mailto:michele564000@gmail.com"> E-mail</a>
 
 
 ### :bulb: Tools and Technologies :bulb:
