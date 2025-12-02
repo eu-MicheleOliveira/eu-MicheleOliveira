@@ -2,15 +2,6 @@
 
 **QA Sênior / Test Analyst**,  entusiasta de qualidade de software, automação, performance e testes robustos.
 
----
-
-## 🔭 O que faço atualmente  
-- Automação de testes de **API e interface (UI)** usando Ruby, Cucumber, Capybara e SitePrism.  
-- Estudo e pratico **testes de carga e performance**, com uso de ferramentas como Locust.
-- Busco aplicar boas práticas de QA, automação confiável e manutenção dos testes em projetos cada vez maiores.  
-- Também me dedico a evolução constante: aprendizado de novas ferramentas, técnicas e inglês técnico para colaborar com times internacionais.
-
----
 
 ## 🛠️ Tecnologias / Ferramentas & Competências  
 
