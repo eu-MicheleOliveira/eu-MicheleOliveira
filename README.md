@@ -1,30 +1,33 @@
-## Hey, guys!
- I'm Michele Caroline Teixeira de Oliveira ! 
- 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelecarolineoliveira/)](https://www.linkedin.com/in/michelecarolineoliveira/)
- 
- 
-### Welcome to my GitHub profile 👋
+# 👋 Olá, eu sou Michele Caroline Teixeira de Oliveira
 
-- 🔭 Today I work with Test Automation
-- :books: I am studying WEB Accessibility | Performance Test | Stress test |
-- ✍🏼  I'm write about many things [Blog](https://medium.com/@micheledeoliveira) 
+**QA Sênior / Test Analyst**,  entusiasta de qualidade de software, automação, performance e testes robustos.
 
+---
 
-### :bulb: Tools and Technologies :bulb:
+## 🔭 O que faço atualmente  
+- Automação de testes de **API e interface (UI)** usando Ruby, Cucumber, Capybara e SitePrism.  
+- Estudo e pratico **testes de carga e performance**, com uso de ferramentas como Locust.
+- Busco aplicar boas práticas de QA, automação confiável e manutenção dos testes em projetos cada vez maiores.  
+- Também me dedico a evolução constante: aprendizado de novas ferramentas, técnicas e inglês técnico para colaborar com times internacionais.
 
--  Ruby | JavaScript | Cypress | Capybara | Cucumber | Selenium
-     
-     
+---
 
-### :bulb: My projects :bulb:
-<a href="https://github.com/eu-MicheleOliveira/cypress-avancado" target="_blank"> - Advanced Cypress Testing</a>
+## 🛠️ Tecnologias / Ferramentas & Competências  
 
+- **Linguagens:** JavaScript,  Ruby, Python (para testes de carga com Locust) 
+- **Ferramentas / Frameworks:**  
+  - Automação UI & API:  Cypress, Playwright , Cucumber, Capybara, SitePrism
+  - Testes de performance / carga: K6, Locust (e outras apropriadas)
+- **Abordagens:** automação de testes, testes de regressão, testes end-to-end, testes de performance, integração contínua.  
+- **Soft skills / perfil:** organização, atenção a detalhes, foco em qualidade, vontade de aprender, adaptabilidade a diferentes tipos de teste.
 
+---
 
-<div>
-<a href="https://github.com/eu-MicheleOliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-micheleoliveira&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eu-micheleoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 📫 Contato & Conexões  
+- GitHub: [@eu-MicheleOliveira](https://github.com/eu-MicheleOliveira
+- Medium / Blog/Tutorials:  [Blog](https://medium.com/@micheledeoliveira) 
+- LinkedIn / outras redes profissionais:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelecarolineoliveira/)](https://www.linkedin.com/in/michelecarolineoliveira/)
 
+---
+
+> “Automatizar hoje o que nos tomaria 10x mais tempo manualmente amanhã,  esse é o poder da qualidade.”  
